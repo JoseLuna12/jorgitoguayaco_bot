@@ -226,6 +226,4 @@ client.on('message', async message => {
 
 });
 
-client.login('NzEyMTExNjU5NDE3NjAwMDYx.XsM0FA.9TrD0W9eFlWRZh2_yl2gAvTCcJQ');
-//NzEyMTExNjU5NDE3NjAwMDYx.XsM0FA.9TrD0W9eFlWRZh2_yl2gAvTCcJQ miji
-//NzExNzcxNTQ0NzkxMjg1ODkw.XsH3bQ.M5_kCn7imxMxI-5cQw6KuLqKz98 diego
+client.login('token');
