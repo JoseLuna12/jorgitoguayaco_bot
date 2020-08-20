@@ -1,0 +1,17 @@
+{
+  "name": "ppppoter",
+  "version": "1.0.0",
+  "description": "un botsito para discord",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "pppmun",
+  "license": "ISC",
+  "dependencies": {
+    "@discordjs/opus": "^0.3.2",
+    "discord.js": "^12.2.0",
+    "ffmpeg": "0.0.4",
+    "ffmpeg-binaries": "^4.0.0"
+  }
+}
